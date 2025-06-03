@@ -150,14 +150,9 @@ lib/
 -----
 
 ## 👨‍💻 Nossa DEMO
+ 
+ ![Frame 35](https://github.com/user-attachments/assets/1677ae2c-b2d7-47b2-865a-4e78386c9823)
 
-<div align="center">
- ![Frame 35](https://github.com/user-attachments/assets/ab3dfcea-07f5-4383-9f95-de9f09fb0642)
- 
- ![Frame 36](https://github.com/user-attachments/assets/79cc81f3-58a8-4f80-aeb8-0fbdafbb4738)
- 
- ![Frame 37](https://github.com/user-attachments/assets/450b810d-b7b9-45c1-81de-1dcf5b0aae76)
-</div>
 
 -----
 
